@@ -11,4 +11,3 @@ GitHub: [vdike](https://github.com/vdike)
 
 ---
 
-![bright](smallbright.jpg)
