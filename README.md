@@ -1,5 +1,5 @@
 # Hello!
-This is Veronica's website!
+I am Veronica Dike, and I study primordial black hole dark matter models using strong gravitational lensing! 
 
 ![smallbright](smallbright.jpg)
 
